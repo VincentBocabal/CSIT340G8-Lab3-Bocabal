@@ -1,5 +1,5 @@
 const App = () => {
-  const course = 'Half Stack application development'
+  const course = 'Half Stack application development' //Exercise 1.1 complete
   const part1 = 'Fundamentals of React'
   const exercises1 = 10
   const part2 = 'Using props to pass data'
